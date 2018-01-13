@@ -1,0 +1,1 @@
+# docker-dotnetcore-with-azure-cli
